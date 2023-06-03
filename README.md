@@ -1,4 +1,5 @@
-# Code Description
+# Sentimental Analysis using BiLSTM
+Classify as `pos`, `neg` or `neutral`
 
 The code provided is a Python script that performs various tasks using machine learning and natural language processing libraries. The script is intended for use on a GitHub repository.
 
